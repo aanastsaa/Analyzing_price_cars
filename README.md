@@ -1,4 +1,4 @@
-# Analyzing_price_cars
+# analysis_price_cars
 In this project, an analysis of the prices of cars from the file was carried out using Python and its libraries, you can read more about the project in the cars file ``` cars.ipynb ```.
 
 **Our task:**
